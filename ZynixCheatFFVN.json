@@ -1,1 +1,103 @@
+[
+  {
+    "id": "ffvn-feature-1",
+    "title": "Aim Body",
+    "subtitle": "",
+    "content": "Load Tới 40% Vào App Bật",
+    "icon": "dot.scope",
+    "tintHex": "#007AFF",
+    "targetAppID": "ffvn",
+    "categoryID": "aim",
+    "bundleID": "com.garena.ffvn",
+    "relativePaths": [
+      "Documents/contentcache/Compulsory/ios/gameassetbundles/avatar/assetindexer.U6Zffc4YIR3DslNj3cXvYGAqz58~3D"
+    ],
+    "replacementFilenames": [
+      "BodyFFVN"
+    ],
+    "saveSetting": false,
+    "projectID": "30000000-0000-0000-0000-000000000001",
+    "isOn": false
+  },
+  {
+    "id": "ffvn-feature-2",
+    "title": "Aim Drag",
+    "subtitle": "",
+    "content": "Load Tới 40% Vào App Bật",
+    "icon": "dot.scope",
+    "tintHex": "#AF52DE",
+    "targetAppID": "ffvn",
+    "categoryID": "aim",
+    "bundleID": "com.garena.ffvn",
+    "relativePaths": [
+      "Documents/contentcache/Compulsory/ios/gameassetbundles/avatar/assetindexer.U6Zffc4YIR3DslNj3cXvYGAqz58~3D"
+    ],
+    "replacementFilenames": [
+      "BodyDrag"
+    ],
+    "saveSetting": false,
+    "projectID": "30000000-0000-0000-0000-000000000002",
+    "isOn": false
+  },
+  {
+    "id": "ffvn-feature-3",
+    "title": "Aim Neck",
+    "subtitle": "",
+    "content": "Load Tới 40% Vào App Bật",
+    "icon": "dot.scope",
+    "tintHex": "#FF9500",
+    "targetAppID": "ffvn",
+    "categoryID": "aim",
+    "bundleID": "com.garena.ffvn",
+    "relativePaths": [
+      "Documents/contentcache/Compulsory/ios/gameassetbundles/avatar/assetindexer.U6Zffc4YIR3DslNj3cXvYGAqz58~3D"
+    ],
+    "replacementFilenames": [
+      "NeckFFVN"
+    ],
+    "saveSetting": false,
+    "projectID": "30000000-0000-0000-0000-000000000003",
+    "isOn": false
+  },
+  {
+    "id": "ffvn-feature-4",
+    "title": "Aim Magic",
+    "subtitle": "",
+    "content": "Load Tới 40% Vào App Bật",
+    "icon": "dot.scope",
+    "tintHex": "#FF2D55",
+    "targetAppID": "ffvn",
+    "categoryID": "aim",
+    "bundleID": "com.garena.ffvn",
+    "relativePaths": [
+      "Documents/contentcache/Compulsory/ios/gameassetbundles/avatar/assetindexer.U6Zffc4YIR3DslNj3cXvYGAqz58~3D"
+    ],
+    "replacementFilenames": [
+      "MagicFFVN"
+    ],
+    "saveSetting": false,
+    "projectID": "30000000-0000-0000-0000-000000000004",
+    "isOn": false
+  },
+  {
+    "id": "ffvn-feature-5",
+    "title": "Súng Rainbow",
+    "subtitle": "",
+    "content": "Cần Tải Tài Nguyên Vũ Khí",
+    "icon": "eye.fill",
+    "tintHex": "#34C759",
+    "targetAppID": "ffvn",
+    "categoryID": "esp",
+    "bundleID": "com.garena.ffvn",
+    "relativePaths": [
+      "Documents/contentcache/Optional/ios/gameassetbundles/shaders.P0K3UG2TfecMBhWMMV~2Fu8ReudIk~3D"
+    ],
+    "replacementFilenames": [
+      "Rainbow"
+    ],
+    "saveSetting": true,
+    "projectID": "30000000-0000-0000-0000-000000000005",
+    "isOn": false
+  }
+]
 
