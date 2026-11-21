@@ -1,6 +1,26 @@
 [
   {
     "id": "ffvn-feature-1",
+    "title": "MENU ZYNIX CHEAT",
+    "subtitle": "",
+    "content": "Chỉ Dành Cho Người Mua Key",
+    "icon": "dot.scope",
+    "tintHex": "#FFD700",
+    "targetAppID": "ffvn",
+    "categoryID": "aim",
+    "bundleID": "com.garena.ffvn",
+    "relativePaths": [
+      "Documents/contentcache/Compulsory/ios/gameassetbundles/codepatch/assembly-csharp-patch.T0mFTHJhcvgBJrIRhg8bEapnUTM~3D"
+    ],
+    "replacementFilenames": [
+      "ZYNIXCHEAT"
+    ],
+    "saveSetting": true,
+    "projectID": "30000000-0000-0000-0000-000000000001",
+    "isOn": false
+  },
+  {
+    "id": "ffvn-feature-2",
     "title": "Aim Body",
     "subtitle": "",
     "content": "Load Tới 40% Vào App Bật",
@@ -16,11 +36,11 @@
       "BodyFFVN"
     ],
     "saveSetting": false,
-    "projectID": "30000000-0000-0000-0000-000000000001",
+    "projectID": "30000000-0000-0000-0000-000000000002",
     "isOn": false
   },
   {
-    "id": "ffvn-feature-2",
+    "id": "ffvn-feature-3",
     "title": "Aim Drag",
     "subtitle": "",
     "content": "Load Tới 40% Vào App Bật",
@@ -36,11 +56,11 @@
       "BodyDrag"
     ],
     "saveSetting": false,
-    "projectID": "30000000-0000-0000-0000-000000000002",
+    "projectID": "30000000-0000-0000-0000-000000000003",
     "isOn": false
   },
   {
-    "id": "ffvn-feature-3",
+    "id": "ffvn-feature-4",
     "title": "Aim Neck",
     "subtitle": "",
     "content": "Load Tới 40% Vào App Bật",
@@ -56,11 +76,11 @@
       "NeckFFVN"
     ],
     "saveSetting": false,
-    "projectID": "30000000-0000-0000-0000-000000000003",
+    "projectID": "30000000-0000-0000-0000-000000000004",
     "isOn": false
   },
   {
-    "id": "ffvn-feature-4",
+    "id": "ffvn-feature-5",
     "title": "Aim Magic",
     "subtitle": "",
     "content": "Load Tới 40% Vào App Bật",
@@ -76,18 +96,18 @@
       "MagicFFVN"
     ],
     "saveSetting": false,
-    "projectID": "30000000-0000-0000-0000-000000000004",
+    "projectID": "30000000-0000-0000-0000-000000000005",
     "isOn": false
   },
   {
-    "id": "ffvn-feature-5",
+    "id": "ffvn-feature-6",
     "title": "Súng Rainbow",
     "subtitle": "",
     "content": "Cần Tải Tài Nguyên Vũ Khí",
     "icon": "eye.fill",
     "tintHex": "#34C759",
     "targetAppID": "ffvn",
-    "categoryID": "chams",
+    "categoryID": "esp",
     "bundleID": "com.garena.ffvn",
     "relativePaths": [
       "Documents/contentcache/Optional/ios/gameassetbundles/shaders.P0K3UG2TfecMBhWMMV~2Fu8ReudIk~3D"
@@ -96,8 +116,7 @@
       "Rainbow"
     ],
     "saveSetting": true,
-    "projectID": "30000000-0000-0000-0000-000000000005",
+    "projectID": "30000000-0000-0000-0000-000000000006",
     "isOn": false
   }
 ]
-
