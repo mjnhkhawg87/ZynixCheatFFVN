@@ -101,7 +101,7 @@
   },
   {
     "id": "ffvn-feature-6",
-    "title": "Súng Rainbow",
+    "title": "Súng Blue",
     "subtitle": "",
     "content": "Cần Tải Tài Nguyên Vũ Khí",
     "icon": "eye.fill",
@@ -113,7 +113,7 @@
       "Documents/contentcache/Optional/ios/gameassetbundles/shaders.P0K3UG2TfecMBhWMMV~2Fu8ReudIk~3D"
     ],
     "replacementFilenames": [
-      "Rainbow"
+      "BlueCham"
     ],
     "saveSetting": true,
     "projectID": "30000000-0000-0000-0000-000000000006",
