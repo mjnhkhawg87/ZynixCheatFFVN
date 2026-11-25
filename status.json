@@ -1,0 +1,15 @@
+{
+  "maintenance": {
+    "enabled": false,
+    "title": "Đang bảo trì",
+    "message": ""
+  },
+  "update": {
+    "enabled": true,
+    "version": "2.8.7",
+    "title": "Có phiên bản mới",
+    "message": "Đã có phiên bản mới. Vui lòng tải xuống.",
+    "downloadURL": "https://ipas.cc/19ztog",
+    "force": true
+  }
+}
