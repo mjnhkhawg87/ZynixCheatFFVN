@@ -3,7 +3,7 @@
     "id": "ffvn-feature-1",
     "title": "MENU ZYNIX CHEAT",
     "subtitle": "",
-    "content": "Chỉ Dành Cho Người Mua Key",
+    "content": "AIM,ESP,...",
     "icon": "dot.scope",
     "tintHex": "#FFD700",
     "targetAppID": "ffvn",
@@ -13,7 +13,7 @@
       "Documents/contentcache/Compulsory/ios/gameassetbundles/codepatch/assembly-csharp-patch.T0mFTHJhcvgBJrIRhg8bEapnUTM~3D"
     ],
     "replacementFilenames": [
-      "ZYNIXCHEAT"
+      "MinhKhang"
     ],
     "saveSetting": true,
     "projectID": "30000000-0000-0000-0000-000000000001",
