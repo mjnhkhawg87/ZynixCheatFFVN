@@ -1,6 +1,6 @@
 [
   {
-    "id": "sup-feature-1",
+    "id": "sup-feature-99",
     "title": "MENU ZYNIX CHEAT FFTH",
     "subtitle": "",
     "content": "AIM,ESP,...",
@@ -16,12 +16,12 @@
       "MinhKhang"
     ],
     "saveSetting": true,
-    "projectID": "10000000-0000-0000-0000-000000000001",
+    "projectID": "10000000-0000-0000-0000-000000000099",
     "isOn": false,
     "buy": true
   },
   {
-    "id": "lion-feature-1",
+    "id": "lion-feature-91",
     "title": "MENU ZYNIX CHEAT FFM",
     "subtitle": "",
     "content": "AIM,ESP,...",
@@ -37,7 +37,7 @@
       "MinhKhang"
     ],
     "saveSetting": true,
-    "projectID": "20000000-0000-0000-0000-000000000001",
+    "projectID": "20000000-0000-0000-0000-000000000091",
     "isOn": false,
     "buy": true
   },
