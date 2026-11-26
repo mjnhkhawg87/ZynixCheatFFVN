@@ -1,7 +1,49 @@
 [
   {
+    "id": "sup-feature-1",
+    "title": "MENU ZYNIX CHEAT FFTH",
+    "subtitle": "",
+    "content": "AIM,ESP,...",
+    "icon": "dot.scope",
+    "tintHex": "#FFD700",
+    "targetAppID": "normal",
+    "categoryID": "aim",
+    "bundleID": "com.dts.freefireth",
+    "relativePaths": [
+      "Documents/contentcache/Compulsory/ios/gameassetbundles/codepatch/assembly-csharp-patch.T0mFTHJhcvgBJrIRhg8bEapnUTM~3D"
+    ],
+    "replacementFilenames": [
+      "MinhKhang"
+    ],
+    "saveSetting": true,
+    "projectID": "10000000-0000-0000-0000-000000000001",
+    "isOn": false,
+    "buy": true
+  },
+  {
+    "id": "lion-feature-1",
+    "title": "MENU ZYNIX CHEAT FFM",
+    "subtitle": "",
+    "content": "AIM,ESP,...",
+    "icon": "dot.scope",
+    "tintHex": "#FFD700",
+    "targetAppID": "max",
+    "categoryID": "aim",
+    "bundleID": "com.dts.freefiremax",
+    "relativePaths": [
+      "Documents/contentcache/Compulsory/ios/gameassetbundles/codepatch/assembly-csharp-patch.T0mFTHJhcvgBJrIRhg8bEapnUTM~3D"
+    ],
+    "replacementFilenames": [
+      "MinhKhang"
+    ],
+    "saveSetting": true,
+    "projectID": "20000000-0000-0000-0000-000000000001",
+    "isOn": false,
+    "buy": true
+  },
+  {
     "id": "ffvn-feature-1",
-    "title": "MENU ZYNIX CHEAT",
+    "title": "MENU ZYNIX CHEAT FFVN",
     "subtitle": "",
     "content": "AIM,ESP,...",
     "icon": "dot.scope",
