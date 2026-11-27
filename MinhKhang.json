@@ -48,9 +48,9 @@
     "content": "AIM,ESP,...",
     "icon": "dot.scope",
     "tintHex": "#FFD700",
-    "targetAppID": "ffvn",
+    "targetAppID": "normal",
     "categoryID": "aim",
-    "bundleID": "com.garena.ffvn",
+    "bundleID": "com.dts.freefireth",
     "relativePaths": [
       "Documents/contentcache/Compulsory/ios/gameassetbundles/codepatch/assembly-csharp-patch.T0mFTHJhcvgBJrIRhg8bEapnUTM~3D"
     ],
@@ -69,9 +69,9 @@
     "content": "Load Tới 40% Vào App Bật",
     "icon": "dot.scope",
     "tintHex": "#007AFF",
-    "targetAppID": "ffvn",
+    "targetAppID": "normal",
     "categoryID": "aim",
-    "bundleID": "com.garena.ffvn",
+    "bundleID": "com.dts.freefireth",
     "relativePaths": [
       "Documents/contentcache/Compulsory/ios/gameassetbundles/avatar/assetindexer.U6Zffc4YIR3DslNj3cXvYGAqz58~3D"
     ],
@@ -90,9 +90,9 @@
     "content": "Load Tới 40% Vào App Bật",
     "icon": "dot.scope",
     "tintHex": "#AF52DE",
-    "targetAppID": "ffvn",
+    "targetAppID": "normal",
     "categoryID": "aim",
-    "bundleID": "com.garena.ffvn",
+    "bundleID": "com.dts.freefireth",
     "relativePaths": [
       "Documents/contentcache/Compulsory/ios/gameassetbundles/avatar/assetindexer.U6Zffc4YIR3DslNj3cXvYGAqz58~3D"
     ],
@@ -111,9 +111,9 @@
     "content": "Load Tới 40% Vào App Bật",
     "icon": "dot.scope",
     "tintHex": "#FF9500",
-    "targetAppID": "ffvn",
+    "targetAppID": "normal",
     "categoryID": "aim",
-    "bundleID": "com.garena.ffvn",
+    "bundleID": "com.dts.freefireth",
     "relativePaths": [
       "Documents/contentcache/Compulsory/ios/gameassetbundles/avatar/assetindexer.U6Zffc4YIR3DslNj3cXvYGAqz58~3D"
     ],
@@ -132,9 +132,9 @@
     "content": "Load Tới 40% Vào App Bật",
     "icon": "dot.scope",
     "tintHex": "#FF2D55",
-    "targetAppID": "ffvn",
+    "targetAppID": "normal",
     "categoryID": "aim",
-    "bundleID": "com.garena.ffvn",
+    "bundleID": "com.dts.freefireth",
     "relativePaths": [
       "Documents/contentcache/Compulsory/ios/gameassetbundles/avatar/assetindexer.U6Zffc4YIR3DslNj3cXvYGAqz58~3D"
     ],
@@ -153,9 +153,9 @@
     "content": "Cần Tải Tài Nguyên Vũ Khí",
     "icon": "eye.fill",
     "tintHex": "#34C759",
-    "targetAppID": "ffvn",
+    "targetAppID": "normal",
     "categoryID": "chams",
-    "bundleID": "com.garena.ffvn",
+    "bundleID": "com.dts.freefireth",
     "relativePaths": [
       "Documents/contentcache/Optional/ios/gameassetbundles/shaders.P0K3UG2TfecMBhWMMV~2Fu8ReudIk~3D"
     ],
