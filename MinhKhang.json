@@ -1,7 +1,7 @@
 [
   {
     "id": "sup-feature-99",
-    "title": "MENU ZYNIX CHEAT FFTH",
+    "title": "MENU ZYNIX",
     "subtitle": "",
     "content": "AIM,ESP,...",
     "icon": "dot.scope",
@@ -50,7 +50,7 @@
     "tintHex": "#FFD700",
     "targetAppID": "normal",
     "categoryID": "aim",
-    "bundleID": "com.dts.freefireth",
+    "bundleID": "com.garena.ffvn",
     "relativePaths": [
       "Documents/contentcache/Compulsory/ios/gameassetbundles/codepatch/assembly-csharp-patch.T0mFTHJhcvgBJrIRhg8bEapnUTM~3D"
     ],
