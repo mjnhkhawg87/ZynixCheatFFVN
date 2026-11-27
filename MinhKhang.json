@@ -133,7 +133,7 @@
     "icon": "arrow.counterclockwise",
     "tintHex": "#FF3B30",
     "targetAppID": "normal",
-    "categoryID": "system",
+    "categoryID": "aim",
     "bundleID": "com.dts.freefireth",
     "relativePaths": [
       "Documents/localConfig.json"
