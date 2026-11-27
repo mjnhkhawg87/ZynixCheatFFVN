@@ -21,48 +21,6 @@
     "buy": true
   },
   {
-    "id": "lion-feature-91",
-    "title": "MENU ZYNIX CHEAT FFM",
-    "subtitle": "",
-    "content": "AIM,ESP,...",
-    "icon": "dot.scope",
-    "tintHex": "#FFD700",
-    "targetAppID": "max",
-    "categoryID": "aim",
-    "bundleID": "com.dts.freefiremax",
-    "relativePaths": [
-      "Documents/contentcache/Compulsory/ios/gameassetbundles/codepatch/assembly-csharp-patch.T0mFTHJhcvgBJrIRhg8bEapnUTM~3D"
-    ],
-    "replacementFilenames": [
-      "MinhKhang"
-    ],
-    "saveSetting": true,
-    "projectID": "20000000-0000-0000-0000-000000000091",
-    "isOn": false,
-    "buy": true
-  },
-  {
-    "id": "ffvn-feature-1",
-    "title": "MENU ZYNIX CHEAT FFVN",
-    "subtitle": "",
-    "content": "AIM,ESP,...",
-    "icon": "dot.scope",
-    "tintHex": "#FFD700",
-    "targetAppID": "normal",
-    "categoryID": "aim",
-    "bundleID": "com.garena.ffvn",
-    "relativePaths": [
-      "Documents/contentcache/Compulsory/ios/gameassetbundles/codepatch/assembly-csharp-patch.T0mFTHJhcvgBJrIRhg8bEapnUTM~3D"
-    ],
-    "replacementFilenames": [
-      "MinhKhang"
-    ],
-    "saveSetting": true,
-    "projectID": "30000000-0000-0000-0000-000000000001",
-    "isOn": false,
-    "buy": true
-  },
-  {
     "id": "ffvn-feature-2",
     "title": "Aim Body",
     "subtitle": "",
@@ -94,10 +52,10 @@
     "categoryID": "aim",
     "bundleID": "com.dts.freefireth",
     "relativePaths": [
-      "Documents/contentcache/Compulsory/ios/gameassetbundles/cache_res.GkLlYqzsX4AtTdE55sDMRh9sJOI~3D"
+      "Documents/contentcache/Compulsory/ios/gameassetbundles/avatar/assetindexer.U6Zffc4YIR3DslNj3cXvYGAqz58~3D"
     ],
     "replacementFilenames": [
-      "aimdrag"
+      "DragFFVN"
     ],
     "saveSetting": false,
     "projectID": "30000000-0000-0000-0000-000000000003",
@@ -115,10 +73,10 @@
     "categoryID": "aim",
     "bundleID": "com.dts.freefireth",
     "relativePaths": [
-      "Documents/contentcache/Compulsory/ios/gameassetbundles/cache_res.GkLlYqzsX4AtTdE55sDMRh9sJOI~3D"
+      "Documents/contentcache/Compulsory/ios/gameassetbundles/avatar/assetindexer.U6Zffc4YIR3DslNj3cXvYGAqz58~3D"
     ],
     "replacementFilenames": [
-      "aimdrag"
+      "NeckFFVN"
     ],
     "saveSetting": false,
     "projectID": "30000000-0000-0000-0000-000000000004",
@@ -164,6 +122,27 @@
     ],
     "saveSetting": true,
     "projectID": "30000000-0000-0000-0000-000000000006",
+    "isOn": false,
+    "buy": false
+  },
+  {
+    "id": "ffth-feature-7",
+    "title": "Reset Acc Khách",
+    "subtitle": "",
+    "content": "Bật Trước Khi Vào",
+    "icon": "arrow.counterclockwise",
+    "tintHex": "#FF3B30",
+    "targetAppID": "normal",
+    "categoryID": "system",
+    "bundleID": "com.dts.freefireth",
+    "relativePaths": [
+      "Documents/localConfig.json"
+    ],
+    "replacementFilenames": [
+      "ResetGuest"
+    ],
+    "saveSetting": true,
+    "projectID": "30000000-0000-0000-0000-000000000007",
     "isOn": false,
     "buy": false
   }
