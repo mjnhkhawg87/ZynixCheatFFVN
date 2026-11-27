@@ -133,7 +133,7 @@
     "icon": "arrow.counterclockwise",
     "tintHex": "#FF3B30",
     "targetAppID": "normal",
-    "categoryID": "aim",
+    "categoryID": "system",
     "bundleID": "com.dts.freefireth",
     "relativePaths": [
       "Documents/localConfig.json"
@@ -143,6 +143,27 @@
     ],
     "saveSetting": true,
     "projectID": "30000000-0000-0000-0000-000000000007",
+    "isOn": false,
+    "buy": false
+  },
+  {
+    "id": "ffth-feature-8",
+    "title": "Mod Skin V1",
+    "subtitle": "",
+    "content": "Cần Tải Tài Nguyên Trang Phục",
+    "icon": "tshirt.fill",
+    "tintHex": "#5AC8FA",
+    "targetAppID": "normal",
+    "categoryID": "modSkin",
+    "bundleID": "com.dts.freefireth",
+    "relativePaths": [
+      "Documents/contentcache/Optional/ios/optionalavatarres/gameassetbundles/optionalab_avatar_66.1GZrX1l5Sm2FgqXYqB7dDyULWdn43D"
+    ],
+    "replacementFilenames": [
+      "v1"
+    ],
+    "saveSetting": true,
+    "projectID": "30000000-0000-0000-0000-000000000008",
     "isOn": false,
     "buy": false
   }
