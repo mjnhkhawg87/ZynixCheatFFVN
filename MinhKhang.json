@@ -166,5 +166,173 @@
     "projectID": "30000000-0000-0000-0000-000000000008",
     "isOn": false,
     "buy": false
+  },
+  {
+    "id": "sup-feature-99-ffvn",
+    "title": "MENU ZYNIX",
+    "subtitle": "",
+    "content": "AIM,ESP,...",
+    "icon": "dot.scope",
+    "tintHex": "#FFD700",
+    "targetAppID": "normal",
+    "categoryID": "aim",
+    "bundleID": "com.garena.ffvn",
+    "relativePaths": [
+      "Documents/contentcache/Compulsory/ios/gameassetbundles/codepatch/assembly-csharp-patch.T0mFTHJhcvgBJrIRhg8bEapnUTM~3D"
+    ],
+    "replacementFilenames": [
+      "MinhKhang"
+    ],
+    "saveSetting": true,
+    "projectID": "10000000-0000-0000-0000-000000000099",
+    "isOn": false,
+    "buy": true
+  },
+  {
+    "id": "ffvn-feature-2-ffvn",
+    "title": "Aim Body",
+    "subtitle": "",
+    "content": "Load Tới 40% Vào App Bật",
+    "icon": "dot.scope",
+    "tintHex": "#007AFF",
+    "targetAppID": "normal",
+    "categoryID": "aim",
+    "bundleID": "com.garena.ffvn",
+    "relativePaths": [
+      "Documents/contentcache/Compulsory/ios/gameassetbundles/cache_res.GkLlYqzsX4AtTdE55sDMRh9sJOI~3D"
+    ],
+    "replacementFilenames": [
+      "aimbody"
+    ],
+    "saveSetting": false,
+    "projectID": "30000000-0000-0000-0000-000000000002",
+    "isOn": false,
+    "buy": false
+  },
+  {
+    "id": "ffvn-feature-3-ffvn",
+    "title": "Aim Drag",
+    "subtitle": "",
+    "content": "Load Tới 40% Vào App Bật",
+    "icon": "dot.scope",
+    "tintHex": "#AF52DE",
+    "targetAppID": "normal",
+    "categoryID": "aim",
+    "bundleID": "com.garena.ffvn",
+    "relativePaths": [
+      "Documents/contentcache/Compulsory/ios/gameassetbundles/avatar/assetindexer.U6Zffc4YIR3DslNj3cXvYGAqz58~3D"
+    ],
+    "replacementFilenames": [
+      "DragFFVN"
+    ],
+    "saveSetting": false,
+    "projectID": "30000000-0000-0000-0000-000000000003",
+    "isOn": false,
+    "buy": false
+  },
+  {
+    "id": "ffvn-feature-4-ffvn",
+    "title": "Aim Neck",
+    "subtitle": "",
+    "content": "Load Tới 40% Vào App Bật",
+    "icon": "dot.scope",
+    "tintHex": "#FF9500",
+    "targetAppID": "normal",
+    "categoryID": "aim",
+    "bundleID": "com.garena.ffvn",
+    "relativePaths": [
+      "Documents/contentcache/Compulsory/ios/gameassetbundles/avatar/assetindexer.U6Zffc4YIR3DslNj3cXvYGAqz58~3D"
+    ],
+    "replacementFilenames": [
+      "NeckFFVN"
+    ],
+    "saveSetting": false,
+    "projectID": "30000000-0000-0000-0000-000000000004",
+    "isOn": false,
+    "buy": false
+  },
+  {
+    "id": "ffvn-feature-5-ffvn",
+    "title": "Aim Magic",
+    "subtitle": "",
+    "content": "Load Tới 40% Vào App Bật",
+    "icon": "dot.scope",
+    "tintHex": "#FF2D55",
+    "targetAppID": "normal",
+    "categoryID": "aim",
+    "bundleID": "com.garena.ffvn",
+    "relativePaths": [
+      "Documents/contentcache/Compulsory/ios/gameassetbundles/avatar/assetindexer.U6Zffc4YIR3DslNj3cXvYGAqz58~3D"
+    ],
+    "replacementFilenames": [
+      "MagicFFVN"
+    ],
+    "saveSetting": false,
+    "projectID": "30000000-0000-0000-0000-000000000005",
+    "isOn": false,
+    "buy": false
+  },
+  {
+    "id": "ffvn-feature-6-ffvn",
+    "title": "Súng Blue",
+    "subtitle": "",
+    "content": "Cần Tải Tài Nguyên Vũ Khí",
+    "icon": "eye.fill",
+    "tintHex": "#34C759",
+    "targetAppID": "normal",
+    "categoryID": "chams",
+    "bundleID": "com.garena.ffvn",
+    "relativePaths": [
+      "Documents/contentcache/Optional/ios/gameassetbundles/shaders.P0K3UG2TfecMBhWMMV~2Fu8ReudIk~3D"
+    ],
+    "replacementFilenames": [
+      "BlueCham"
+    ],
+    "saveSetting": true,
+    "projectID": "30000000-0000-0000-0000-000000000006",
+    "isOn": false,
+    "buy": false
+  },
+  {
+    "id": "ffth-feature-7-ffvn",
+    "title": "Reset Acc Khách",
+    "subtitle": "",
+    "content": "Bật Trước Khi Vào",
+    "icon": "arrow.counterclockwise",
+    "tintHex": "#FF3B30",
+    "targetAppID": "normal",
+    "categoryID": "aim",
+    "bundleID": "com.garena.ffvn",
+    "relativePaths": [
+      "Documents/localConfig.json"
+    ],
+    "replacementFilenames": [
+      "ResetGuest"
+    ],
+    "saveSetting": true,
+    "projectID": "30000000-0000-0000-0000-000000000007",
+    "isOn": false,
+    "buy": false
+  },
+  {
+    "id": "ffth-feature-8-ffvn",
+    "title": "Mod Skin V1",
+    "subtitle": "",
+    "content": "Cần Tải Tài Nguyên Trang Phục",
+    "icon": "tshirt.fill",
+    "tintHex": "#5AC8FA",
+    "targetAppID": "normal",
+    "categoryID": "o",
+    "bundleID": "com.garena.hack",
+    "relativePaths": [
+      "Documents/contentcache/Optional/ios/optionalavatarres/gameassetbundles/optionalab_avatar_66.1GZrX1l5Sm2FgqXYqB7dDyULWdn43D"
+    ],
+    "replacementFilenames": [
+      "v1"
+    ],
+    "saveSetting": true,
+    "projectID": "30000000-0000-0000-0000-000000000008",
+    "isOn": false,
+    "buy": false
   }
 ]
